@@ -54,39 +54,12 @@ jupyter notebook notebooks/
 
 ## 📊 Algoritmos Incluídos
 
-Aprendizado Supervisionado:
+**Aprendizado Supervisionado:**
 
-Regressão Linear / Logística
+- Regressão Linear / Logística
+- Naive Bayes
 
-Decision Trees & Random Forests
 
-Support Vector Machines (SVM)
-
-Gradient Boosting (XGBoost, LightGBM)
-
-Aprendizado Não Supervisionado:
-
-K-Means, DBSCAN
-
-PCA, t-SNE
-
-Clusterização Hierárquica
-
-Deep Learning:
-
-Redes Neurais Densas (MLP)
-
-Convolucionais (CNN)
-
-LSTM/GRU para séries temporais
-
-Tópicos Avançados:
-
-Engenharia de Features
-
-Tuning de Hiperparâmetros (GridSearch, Optuna)
-
-Interpretação de Modelos (SHAP, LIME)
 
 ## 🧪 Exemplos de Uso
 
