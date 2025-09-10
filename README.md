@@ -2,12 +2,14 @@
 
 Este repositório contém códigos, experimentos e notebooks para estudo, prototipagem e aplicação de algoritmos de aprendizado de máquina em problemas reais.
 
+
 ## 🎯 Objetivo
 
 O objetivo deste repositório é:
 - Reunir implementações didáticas e práticas de algoritmos de ML (supervisionado, não supervisionado e deep learning).
 - Documentar experimentos com datasets.
 - Servir como um laboratório para apoiar aulas e pesquisas na área.
+
 
 ## 📂 Estrutura do Repositório
 ```
@@ -21,7 +23,23 @@ bash
 └── README.md
 ```
 
-> Nota: Para datasets grandes, utilize os links no diretório data/ em vez de armazenar os arquivos diretamente no repositório.
+
+## 📊 Algoritmos Incluídos
+
+**Aprendizado Supervisionado:**
+
+- Regressão Linear / Logística
+- Naive Bayes
+
+
+## 🧪 Exemplos de Uso
+
+Cada notebook contém:
+- Explicação teórica do algoritmo
+- Exemplo prático com dataset real
+- Métricas de avaliação (accuracy, F1, ROC-AUC, RMSE)
+- Visualizações para interpretação de resultados
+
 
 ## 🚀 Como Usar
 1. Clonar o Repositório
@@ -47,26 +65,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/
 ```
 
-## 📊 Algoritmos Incluídos
-
-**Aprendizado Supervisionado:**
-
-- Regressão Linear / Logística
-- Naive Bayes
-
-
-
-## 🧪 Exemplos de Uso
-
-Cada notebook contém:
-
-Explicação teórica do algoritmo
-
-Exemplo prático com dataset real
-
-Métricas de avaliação (accuracy, F1, ROC-AUC, RMSE)
-
-Visualizações para interpretação de resultados
 
 ## 🤝 Contribuições
 
@@ -78,10 +76,12 @@ Commit: `git commit -m 'Minha contribuição`
 Push: `git push origin minha-feature`
 Abra um `pull request`
 
+
 ## 📜 Licença
 
 Ese projeto está sob a licença **MIT**.
 Sinta-se à vontade para usar e compartilhar.
+
 
 ## 📧 Contato
 
