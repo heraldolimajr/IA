@@ -5,14 +5,9 @@ Este repositório contém códigos, experimentos e notebooks para estudo, protot
 ## 🎯 Objetivo
 
 O objetivo deste repositório é:
-
-Reunir implementações didáticas e práticas de algoritmos de ML (supervisionado, não supervisionado e deep learning).
-
-Documentar experimentos com datasets abertos (Iris, MNIST, CIFAR-10, etc.).
-
-Servir como um laboratório para explorar conceitos de pré-processamento, feature engineering, tuning de hiperparâmetros e avaliação de modelos.
-
-Fornecer exemplos para apoiar aulas, workshops e pesquisas na área.
+- Reunir implementações didáticas e práticas de algoritmos de ML (supervisionado, não supervisionado e deep learning).
+- Documentar experimentos com datasets.
+- Servir como um laboratório para apoiar aulas e pesquisas na área.
 
 ## 📂 Estrutura do Repositório
 ```
