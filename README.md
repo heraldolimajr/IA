@@ -32,51 +32,6 @@ bash
 - Naive Bayes
 
 
-## 🧪 Exemplos de Uso
-
-Cada notebook contém:
-- Explicação teórica do algoritmo
-- Exemplo prático com dataset real
-- Métricas de avaliação (accuracy, F1, ROC-AUC, RMSE)
-- Visualizações para interpretação de resultados
-
-
-## 🚀 Como Usar
-1. Clonar o Repositório
-```
-git clone https://github.com/heraldolimajr/Machine-Learning.git
-cd Machine-Learning
-```
-
-3. Criar um Ambiente Virtual
-```
-python -m venv .venv
-source .venv/bin/activate   # Linux/Mac
-.venv\Scripts\activate      # Windows
-```
-
-5. Instalar Dependências
-```
-pip install -r requirements.txt
-```
-
-6. Executar Notebooks
-```
-jupyter notebook notebooks/
-```
-
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas!
-
-Faça um **fork** deste repositório
-Crie um branch: `git checkout -b minha-feature`
-Commit: `git commit -m 'Minha contribuição`
-Push: `git push origin minha-feature`
-Abra um `pull request`
-
-
 ## 📜 Licença
 
 Ese projeto está sob a licença **MIT**.
@@ -89,5 +44,3 @@ Criado e mantido por Heraldo Gonçalves Lima Junior
 📬 LinkedIn
  • Lattes
  • E-mail
-
-> 🎓 "Machine Learning é melhor aprendido fazendo, testando e visualizando resultados."
